@@ -1,0 +1,14 @@
+{
+        "state": "ACTIVE",
+        "publicId": 1234567,
+        "productId": "CH14700",
+        "xbandOwnerId": "E25D3D07-1234-5678-9012-946A68BB3D7E",
+        "secondaryState": "ORIGINAL",
+        "guestId": "09300525081123456",
+        "guestIdType": "admission-link-id",
+        "externalNumber": "12345D123456",
+        "secureId": 1234567890,
+        "shortRangeTag": 1987654321,
+        "xbandId": "904AE359-1234-1234-1234-D50799EBF42E",
+         "assignmentDateTime": "2017-09-04T11:49:13Z"
+}
